@@ -66,7 +66,7 @@ To validate that a configuration has been made appropriately, an administrator c
 
 [ ![What If tool showing results with Block access](./media/troubleshoot-conditional-access-what-if/conditional-access-what-if-results.png)](./media/troubleshoot-conditional-access-what-if/conditional-access-what-if-results.png#lightbox)
 
-In this instance, the user would be blocked from accessing any cloud app on their trip to North Korea as Contoso has blocked access from that location.
+In this instance, the user would be required to authenticate with MFA and use an approved client app.
 
 This test could be expanded to incorporate other data points to narrow the scope.
 
